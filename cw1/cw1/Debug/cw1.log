@@ -1,0 +1,44 @@
+﻿  Bloczek.cpp
+  cw1.cpp
+  Game.cpp
+D:\Users\michr\source\repos\Okienkowe-C++\cw1\cw1\Game.cpp(134,36): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Users\michr\source\repos\Okienkowe-C++\cw1\cw1\Game.cpp(134,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.30.30705\include\xmemory(681,68): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.30.30705\include\vector(592): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int,int,int&,int&>(_Alloc &,_Objty *const ,int &&,int &&,int &,int &)” funkcji szablon
+          with
+          [
+              _Alloc=std::allocator<Bloczek>,
+              _Ty=Bloczek,
+              _Objty=Bloczek
+          ]
+D:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.30.30705\include\vector(597): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void std::_Default_allocator_traits<_Alloc>::construct<_Ty,int,int,int&,int&>(_Alloc &,_Objty *const ,int &&,int &&,int &,int &)” funkcji szablon
+          with
+          [
+              _Alloc=std::allocator<Bloczek>,
+              _Ty=Bloczek,
+              _Objty=Bloczek
+          ]
+D:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.30.30705\include\vector(610): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void std::vector<Bloczek,std::allocator<Bloczek>>::_Emplace_back_with_unused_capacity<_Ty,_Ty,int&,int&>(_Ty &&,_Ty &&,int &,int &)” funkcji szablon
+          with
+          [
+              _Ty=int
+          ]
+D:\Users\michr\source\repos\Okienkowe-C++\cw1\cw1\Game.cpp(73): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void std::vector<Bloczek,std::allocator<Bloczek>>::emplace_back<int,int,int&,int&>(int &&,int &&,int &,int &)” funkcji szablon
+D:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.30.30705\include\xmemory(681,68): warning C4244: "argument": konwersja z "_Ty" do "float", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+  Kulka.cpp
+D:\Users\michr\source\repos\Okienkowe-C++\cw1\cw1\Kulka.cpp(4,24): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+D:\Users\michr\source\repos\Okienkowe-C++\cw1\cw1\Kulka.cpp(4,21): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  Menu.cpp
+D:\Users\michr\source\repos\Okienkowe-C++\cw1\cw1\Menu.cpp(74,37): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\Users\michr\source\repos\Okienkowe-C++\cw1\cw1\Menu.cpp(74,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Paleta.cpp
+  Przycisk.cpp
+  Generowanie kodu...
+D:\Users\michr\source\repos\Okienkowe-C++\cw1\cw1\Kulka.cpp(36): warning C4715: "Ball::moveBall”: niewszystkie ścieżki kodu zwracają wartość
+D:\Users\michr\source\repos\Okienkowe-C++\cw1\cw1\Game.cpp(27): warning C4715: "checkTouch”: niewszystkie ścieżki kodu zwracają wartość
+D:\Users\michr\source\repos\Okienkowe-C++\cw1\cw1\Game.cpp(55): warning C4715: "checkTouch”: niewszystkie ścieżki kodu zwracają wartość
+  cw1.vcxproj -> D:\Users\michr\source\repos\Okienkowe-C++\cw1\Debug\cw1.exe
