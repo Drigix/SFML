@@ -1,0 +1,3 @@
+﻿  Sound.cpp
+D:\Users\michr\source\repos\Semestr4\Projekt\Projekt\Project\Project\Sound.cpp(49,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Project.vcxproj -> D:\Users\michr\source\repos\Semestr4\Projekt\Projekt\Project\x64\Debug\Project.exe
